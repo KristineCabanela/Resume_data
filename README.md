@@ -10,6 +10,7 @@
 
 ### Data Dictionary
 
+| Variable            |     Description  |     
 
 
 ## Steps to Reproduce
