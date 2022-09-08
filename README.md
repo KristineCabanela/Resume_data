@@ -38,3 +38,7 @@ Plan - Acquire - Prepare - Explore - Model - Deliver
     - Final Report in Jupyter Notebook
     - README with project details
     - Python modules with acquire and prepare functions
+
+
+
+    22, September to web
